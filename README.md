@@ -1,5 +1,7 @@
 Colorblindly
 
+![image](https://user-images.githubusercontent.com/59438459/135892169-a02da1d4-d7d1-4db5-9e04-a3f369e8e9f1.png)
+
 
 Colorblindly is an extension that helps developers create websites for the people with colorblindness by allowing them to simulate the experience those users have on websites.
 
@@ -21,9 +23,7 @@ Colorblind Statistics, courtesy of Wikipedia
 
 
 Getting Started
-Install the extension from the Chrome store here
 
-Or clone the repository and add to Chrome as an unpacked extension.
 
 Currently this is a Google Chrome-only extension.
 
