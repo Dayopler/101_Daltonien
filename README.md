@@ -1,4 +1,6 @@
-<h1>101 Daltoniens</h1>
+<h1>101 Daltoniens</h1>s
+
+![image](https://user-images.githubusercontent.com/59438459/135892169-a02da1d4-d7d1-4db5-9e04-a3f369e8e9f1.png)
 
 
 101 Daltoniens is inspirated about ColorBlindly. ColorBlindly is an extension that helps developers create websites for the people with colorblindness by allowing them to simulate the experience those users have on websites. 101 Dlatoniens is a filter for the people with colorblindness, this application apply a filter on website to adapt to their vision.
@@ -24,6 +26,11 @@ How we want this filter to work now:
 -Add an extension from our browser
 
 (Currently this is a Google Chrome-only extension.)
+![image](https://user-images.githubusercontent.com/59438459/135892104-791b5b80-ce6f-4f1f-bada-1dc4e48bcb43.png)
+
+
+Getting Started
+
 
 
 How we want this filter to work in the futur:
