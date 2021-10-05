@@ -1,4 +1,4 @@
-function filter() {
+let scan = function filter() {
     if (document.getElementById("styleID612481")) {
         stylingID = document.getElementById("styleID612481").remove();
         filterID = document.getElementById("filterID471924").remove();
@@ -12,5 +12,7 @@ function filter() {
     filterID.setAttribute('style', 'height: 0; padding: 0; margin: 0; line-height: 0;');
     document.body.appendChild(filterID);
 }
-
+export{
+    scan
+};
 //Scan

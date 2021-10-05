@@ -1,9 +1,9 @@
 // protanomaly : Red Weak
-import * as filter from './assets/scan.js';
+import * as scan from './assets/scan.js';
 import * as setTimeout from './assets/settimeout.js';
 
 //Scan 
-filter;
+scan.scan();
 
 //Set the filter
 
@@ -11,4 +11,4 @@ filterID.innerHTML = '<svg id="colorblind-filters" style="display: none"> <defs>
 stylingID.innerHTML = 'html{-webkit-filter:url(#protanomaly);-moz-filter:(#protanomaly);-ms-filter:(#protanomaly);-o-filter:(#protanomaly);filter:(#protanomaly);}'
 
 //Delay
-setTimeout;
+setTimeout.setTimeout();

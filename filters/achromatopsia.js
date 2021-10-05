@@ -1,9 +1,9 @@
 // achromatopsia : Sees No Color
-import * as filter from './assets/scan.js';
+import * as scan from './assets/scan.js';
 import * as setTimeout from './assets/settimeout.js';
 
 //Scan 
-filter;
+scan;
 
 //Set the filter
 filterID.innerHTML = '<svg id="colorblind-filters" style="display: none"> <defs> <filter id="achromatopsia"> <feColorMatrix type="matrix" values="0.299,0.587,0.114,0,0 0.299,0.587,0.114,0,0 0.299,0.587,0.114,0,0 0,0,0,1,0" in="SourceGraphic" /> </filter>  </defs> </svg>';
