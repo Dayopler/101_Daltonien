@@ -5,7 +5,7 @@ body {
     font-family: 'Roboto', sans-serif;
     color: rgb(0, 0, 0);
     height: 100%;
-    /*background-color: #fcf8f8;*/
+    width: 450px;
     
   }
   
@@ -19,8 +19,19 @@ body {
   }
   
   h1 {
-    width: 100%;
+    height: 100px;
+    background-image: url(../images/explosion-de-couleur.png) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    font-size: 3.5em;
+    text-shadow: 2px 2px rgb(54, 54, 54);
+    display: grid;
+    place-items: center;
+    
   }
+  
   #color-background {
     width: 100px;
     background-color: rgb(52, 124, 124);
@@ -92,7 +103,7 @@ body {
     background: #910ab3;
   }
   
-  #rainbow {
+  /*#rainbow {
     background: linear-gradient(to right,
         rgb(194, 103, 194),
         orange,
@@ -105,7 +116,7 @@ body {
     text-shadow: 2px 2px rgb(54, 54, 54);
     padding: 15px;
     margin-left: 15px;
-  }
+  }*/
 
   .row{
     margin-right: 0px;
