@@ -1,12 +1,13 @@
-<h1 href="https://github.com/Dayopler/101_Daltonien/blob/main/README.md">Colorblindly</h1>
+<h1>101 Daltoniens</h1>
 
 
-Colorblindly is an extension that helps developers create websites for the people with colorblindness by allowing them to simulate the experience those users have on websites.
+101 Daltoniens is inspirated about ColorBlindly. ColorBlindly is an extension that helps developers create websites for the people with colorblindness by allowing them to simulate the experience those users have on websites. 101 Dlatoniens is a filter for the people with colorblindness, this application apply a filter on website to adapt to their vision.
 
-The extension works by placing a CSS filter over the webpage that modifies color ratios in line with actual types of colorblindness.
+The filter works by placing a CSS filter over the webpage that modifies color ratios in line to complete types of colorblindness.
 
-There are 8 different settings to experience:
+There are 9 different settings to experience beacause there are 8 types of color blind :
 
+Normal vision
 Blue Cone Monochromacy / Achromatomaly
 Monochromacy / Achromatopsia
 Green-Weak / Deuteranomaly
@@ -18,16 +19,40 @@ Blue-Blind / Tritanopia
 Colorblind Statistics, courtesy of Wikipedia
 
 
+How we want this filter to work now:
 
-Getting Started
-Install the extension from the Chrome store here
+-Add an extension from our browser
 
-Or clone the repository and add to Chrome as an unpacked extension.
+(Currently this is a Google Chrome-only extension.)
 
-Currently this is a Google Chrome-only extension.
+
+How we want this filter to work in the futur:
+
+-Add a complete extension on your OS
+
+(Because, right now Windows have just 2 or 3 settings)
 
 Contributing
 Feel free to make a pull request with your feature, following our CONTRIBUTING.md OR submit an issue and we'll try to make it happen.
+
+For 101 Daltoniens :
+
+Authors :
+
+Yanis Gateble
+Quentin Sagory
+Bryan Bosse
+
+Communication :
+
+Thibaut Szevoczy
+Enzo Drouyer
+Research : 
+
+Wikipédia
+Github
+
+For ColorBlindly : 
 
 Authors
 Andrew VanNess - oftheheadland
