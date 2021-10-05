@@ -1,4 +1,4 @@
-//Listeners for colorblind filter buttons
+//Listeners for 101_Daltoniens filter buttons
 //Injects a javascript file on click event, the js file applies a filter to simulate colorblindness
 
 // stores the currently selected filter so that when the user stops hovering
