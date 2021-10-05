@@ -1,4 +1,4 @@
-// achromatomaly
+// achromatomaly : Weaker Than Normal
 
 
 //Set the filter
