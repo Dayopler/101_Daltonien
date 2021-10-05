@@ -1,0 +1,20 @@
+{
+    "name": "101 Daltoniens",
+    "version": "0.1",
+    "manifest_version": 2,
+    "description": "Add colorblindness's filters in your web browser.",
+    "homepage_url": "https://github.com/Dayopler/101_Daltonien",
+    "icons": {
+      "16": "./images/eyecon.png",
+      "48": "./images/eyecon.png",
+      "128": "./images/eyecon.png"
+    },
+    "browser_action": {
+      "default_title": "101 Daltoniens",
+      "default_popup": "./popup/popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "storage"
+    ]
+  }
