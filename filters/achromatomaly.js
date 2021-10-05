@@ -1,6 +1,4 @@
-// achromatomaly : Weaker Than Normal
-/*import * as filter from './assets/scan.js';
-import * as setTimeout from './assets/settimeout.js';
+// achromatomaly
 
 //Scan 
 filter;
