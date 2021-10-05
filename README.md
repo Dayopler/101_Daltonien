@@ -1,4 +1,4 @@
-Colorblindly
+<h1>Colorblindly</h1>
 
 ![image](https://user-images.githubusercontent.com/59438459/135892169-a02da1d4-d7d1-4db5-9e04-a3f369e8e9f1.png)
 
