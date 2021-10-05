@@ -1,4 +1,4 @@
-// achromatomaly
+// achromatomaly : Weaker Than Normal
 
 if (document.getElementById("styleID612481")) {
     stylingID = document.getElementById("styleID612481").remove();
