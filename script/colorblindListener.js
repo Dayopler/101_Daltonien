@@ -1,3 +1,27 @@
+import { setTimeout } from "../filters/assets/settimeout";
+
+let scan = function filter() {
+  if (document.getElementById("styleID612481")) {
+      stylingID = document.getElementById("styleID612481").remove();
+      filterID = document.getElementById("filterID471924").remove();
+  }
+  stylingID = document.createElement('style');
+  stylingID.id = "styleID612481";
+  document.body.appendChild(stylingID);
+
+  filterID = document.createElement('div');
+  filterID.id = "filterID471924";
+  filterID.setAttribute('style', 'height: 0; padding: 0; margin: 0; line-height: 0;');
+  document.body.appendChild(filterID);
+}
+
+let SetTimeout = function setTimeout() {
+  setTimeout(function() {
+      window.scrollBy(1, 1);
+      window.scrollBy(-1, -1);
+  }, 1);
+}
+
 //Listeners for 101_Daltoniens filter buttons
 //Injects a javascript file on click event, the js file applies a filter to simulate colorblindness
 
@@ -32,7 +56,7 @@ function setSelected(value) {
 }
 
 function injectFilter(fileName) {
-  chrome.tabs.executeScript({ file: fileName });
+  chrome.tabs.executeScript({ file: fileName});
 }
 
 document.querySelectorAll(['[id^="radio"]']).forEach(radioButton => {
@@ -40,7 +64,9 @@ document.querySelectorAll(['[id^="radio"]']).forEach(radioButton => {
   radioButton.addEventListener("click", function() {
     // page-specific filters
     setSelected(radioButton.id);
+    scan;
     injectFilter(`filters/${filter}.js`);
+    setTimeout;
     // popup-specific filters
     applyFilter((window.selectedFilter = filter));
   });
