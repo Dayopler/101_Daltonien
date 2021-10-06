@@ -53,8 +53,6 @@ body {
     padding: 20px;
    
   }
-
-  /* radio button styles */
   
   .checkbox-custom,
   .radio-custom {
@@ -70,6 +68,7 @@ body {
     vertical-align: middle;
     margin: 5px;
     cursor: pointer;
+    transition: background-color .2s;
   }
   
   .checkbox-custom-label,
@@ -77,59 +76,24 @@ body {
     position: relative;
   }
   
-  .checkbox-custom+.checkbox-custom-label:before,
-  .radio-custom+.radio-custom-label:before {
-    content: '';
-    background: #fff;
-    border: 2px solid rgb(95, 88, 88);
-    display: inline-block;
-    vertical-align: middle;
-    width: 20px;
-    height: 20px;
-    padding: 2px;
-    margin-right: 10px;
-    text-align: center;
-  }
-  
-  .checkbox-custom:checked+.checkbox-custom-label:before {
-    background: rebeccapurple;
-  }
   
   .radio-custom+.radio-custom-label:before {
     border-radius: 50%;
   }
-  
-  .radio-custom:checked+.radio-custom-label:before {
-    background: #910ab3;
-  }
-  
-  /*#rainbow {
-    background: linear-gradient(to right,
-        rgb(194, 103, 194),
-        orange,
-        rgb(31, 204, 54),
-        rgb(28, 172, 255),
-        rgb(10, 99, 10),
-        blue);
-    font-size: 3em;
-    color: white;
-    text-shadow: 2px 2px rgb(54, 54, 54);
-    padding: 15px;
-    margin-left: 15px;
-  }*/
-
-  .row{
-    margin-right: 0px;
-  }
-
-  .col-lg{
-    padding: 0;
-  }
+    
  
   form div:hover {
     background-color: rgb(230, 230, 230)
   }
   
+  input:checked + label {
+  background-color:#E5E4E4;   
+  border-radius: 10px;
+  width: 99%;
+  height: 50%;  
+  padding: 4px;
+  }
+
   form div {
     border-radius: 10px;
   }
