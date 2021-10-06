@@ -32,12 +32,6 @@ body {
     
   }
   
-  #color-background {
-    width: 100px;
-    background-color: rgb(52, 124, 124);
-    margin-top: 250px;
-  }
-  
   .corner-button {
     bottom: 10px;
     right: 10px;
@@ -74,6 +68,7 @@ body {
   .checkbox-custom-label,
   .radio-custom-label {
     position: relative;
+    width: 100%;
   }
   
   
