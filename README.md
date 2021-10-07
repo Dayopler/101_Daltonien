@@ -60,9 +60,9 @@ Contributing
 
 Feel free to make a pull request with your feature, following our CONTRIBUTING.md OR submit an issue and we'll try to make it happen.
 
-<h4>For 101 Daltoniens :</h4>
+<h3>For 101 Daltoniens :</h3>
 
-<h5>Authors :</h5>
+<h4>Authors :</h4>
 
 Yanis Gateble
 
@@ -70,19 +70,19 @@ Quentin Sagory
 
 Bryan Bosse
 
-<h5>Communication :</h5>
+<h4>Communication :</h4>
 
 Thibaut Szevoczy
 
 Enzo Drouyer
 
-<h5>Research : </h5>
+<h4>Research : </h4>
 
 Wikipédia
 
 Github
 
-<h5>For ColorBlindly : </h5>
+<h4>For ColorBlindly : </h4>
 
 Authors
 
