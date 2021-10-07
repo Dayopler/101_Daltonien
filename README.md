@@ -10,14 +10,23 @@ The filter works by placing a CSS filter over the webpage that modifies color ra
 There are 9 different settings to experience beacause there are 8 types of color blind :
 
 Normal vision
+
 Blue Cone Monochromacy / Achromatomaly
+
 Monochromacy / Achromatopsia
+
 Green-Weak / Deuteranomaly
+
 Green-Blind / Deuteranopia
+
 Red-Weak / Protanomaly
+
 Red-Blind / Protanopia
+
 Blue-Weak / Tritanomaly
+
 Blue-Blind / Tritanopia
+
 Colorblind Statistics, courtesy of Wikipedia
 
 How Many ColorBlind in The World ?
