@@ -20,6 +20,7 @@ Blue-Weak / Tritanomaly
 Blue-Blind / Tritanopia
 Colorblind Statistics, courtesy of Wikipedia
 
+How Many ColorBlind in The World ?
 
 ![image](https://user-images.githubusercontent.com/59438459/135892104-791b5b80-ce6f-4f1f-bada-1dc4e48bcb43.png)
 
