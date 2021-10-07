@@ -53,23 +53,31 @@ For 101 Daltoniens :
 Authors :
 
 Yanis Gateble
+
 Quentin Sagory
+
 Bryan Bosse
 
 Communication :
 
 Thibaut Szevoczy
+
 Enzo Drouyer
+
 Research : 
 
 Wikipédia
+
 Github
 
 For ColorBlindly : 
 
 Authors
+
 Andrew VanNess - oftheheadland
+
 Contributors
+
 https://github.com/ItamarShDev
 
 https://github.com/Poonchy
@@ -79,13 +87,17 @@ https://github.com/minifyre
 https://github.com/tyGoulski
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
+
 Icons:
 
 The Noun Project
+
 Research:
 
 Wikipedia
+
 National Eye Institute
