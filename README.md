@@ -25,14 +25,16 @@ Colorblind Statistics, courtesy of Wikipedia
 How we want this filter to work now:
 
 -Add an extension from our browser
+<<<<<<< HEAD
 -Clic on icon "101" -Choose your filter and clic on it 
 -The filter applies on your page
+=======
+-Clic on icon "101"
+-Choose your filter and clic on it
+-the filter applies on your page
+>>>>>>> cd5badd4efa21791ffdc2b95194263964322b734
 
 (Currently this is a Google Chrome-only extension.)
-
-
-
-Getting Started
 
 
 
