@@ -19,14 +19,17 @@ Red-Blind / Protanopia
 Blue-Weak / Tritanomaly
 Blue-Blind / Tritanopia
 Colorblind Statistics, courtesy of Wikipedia
+![image](https://user-images.githubusercontent.com/59438459/135892104-791b5b80-ce6f-4f1f-bada-1dc4e48bcb43.png)
 
 
 How we want this filter to work now:
 
 -Add an extension from our browser
+-Clic on icon "101" -Choose your filter and clic on it 
+-The filter applies on your page
 
 (Currently this is a Google Chrome-only extension.)
-![image](https://user-images.githubusercontent.com/59438459/135892104-791b5b80-ce6f-4f1f-bada-1dc4e48bcb43.png)
+
 
 
 Getting Started
