@@ -56,9 +56,6 @@ Colorblind Statistics, courtesy of Wikipedia
 
 You can use your computer usally
 
-Contributing
-
-Feel free to make a pull request with your feature, following our CONTRIBUTING.md OR submit an issue and we'll try to make it happen.
 
 <h3>For 101 Daltoniens :</h3>
 
@@ -82,7 +79,7 @@ Wikipédia
 
 Github
 
-<h4>For ColorBlindly : </h4>
+<h3>For ColorBlindly : </h3>
 
 Authors
 
