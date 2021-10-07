@@ -7,7 +7,7 @@
 
 The filter works by placing a CSS filter over the webpage that modifies color ratios in line to complete types of colorblindness.
 
-<h1>There are 9 different settings to experience beacause there are 8 types of color blind :</h1>
+<h2>There are 9 different settings to experience beacause there are 8 types of color blind :</h2>
 
 Normal vision
 
@@ -29,12 +29,12 @@ Blue-Blind / Tritanopia
 
 Colorblind Statistics, courtesy of Wikipedia
 
-How Many ColorBlind in The World ?
+<h2>How Many ColorBlind in The World ?</h2>
 
 ![image](https://user-images.githubusercontent.com/59438459/135892104-791b5b80-ce6f-4f1f-bada-1dc4e48bcb43.png)
 
 
-How we want this filter to work now:
+<h3>How we want this filter to work now:</h3>
 
 -Add an extension from our browser
 
@@ -48,18 +48,21 @@ How we want this filter to work now:
 
 
 
-How we want this filter to work in the futur:
+<h3>How we want this filter to work in the futur:</h3>
 
 -Add a complete extension on your OS
 
 (Because, right now Windows have just 2 or 3 settings)
 
+You can use your computer usally
+
 Contributing
+
 Feel free to make a pull request with your feature, following our CONTRIBUTING.md OR submit an issue and we'll try to make it happen.
 
-For 101 Daltoniens :
+<h4>For 101 Daltoniens :</h4>
 
-Authors :
+<h5>Authors :</h5>
 
 Yanis Gateble
 
@@ -67,19 +70,19 @@ Quentin Sagory
 
 Bryan Bosse
 
-Communication :
+<h5>Communication :</h5>
 
 Thibaut Szevoczy
 
 Enzo Drouyer
 
-Research : 
+<h5>Research : </h5>
 
 Wikipédia
 
 Github
 
-For ColorBlindly : 
+<h5>For ColorBlindly : </h5>
 
 Authors
 
