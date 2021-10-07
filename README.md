@@ -7,7 +7,7 @@
 
 The filter works by placing a CSS filter over the webpage that modifies color ratios in line to complete types of colorblindness.
 
-<h1>There are 9 different settings to experience beacause there are 8 types of color blind :<h1>
+<h1>There are 9 different settings to experience beacause there are 8 types of color blind :</h1>
 
 Normal vision
 
